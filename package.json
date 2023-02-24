@@ -1,0 +1,14 @@
+{
+  "name": "nodejshomework3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "server": "node server.js",
+    "client": "node client.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
